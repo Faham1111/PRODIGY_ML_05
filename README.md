@@ -37,17 +37,6 @@ pip install Pillow
 Raw Images → Preprocessing → Augmentation → Model → Predictions → Calorie Estimation
 ```
 
-## 🎯 Performance Metrics
-
-| Metric | Score |
-|--------|-------|
-| **Top-1 Accuracy** | 95.0%+ |
-| **Top-3 Accuracy** | 98.0%+ |
-| **Top-5 Accuracy** | 99.0%+ |
-| **Training Time** | 2-5 minutes |
-| **Inference Time** | <100ms per image |
-| **Model Size** | ~14MB |
-
 ## 🍽️ Supported Food Categories
 
 The system recognizes 101 food categories from the Food-101 dataset:
